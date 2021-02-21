@@ -7,6 +7,6 @@
    https://nodejs.org/en/download/
 4. Clone the repository.
 5. Open the project folder and run the below script to install dependencies.
-6  npm install
-7  Run the below script to start the project.
-8  node test.js
+6. npm install
+7. Run the below script to start the project.
+8. node test.js
